@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "CGC",
+    "GAG",
+    "CGC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:amethyst_cluster"
+    },
+    "G": {
+      "item": "minecraft:raw_gold_block"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "id": "minecraft:enchanted_golden_apple"
+  }
+}
