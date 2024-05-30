@@ -79,7 +79,8 @@
       { "id": "minecraft:structure_void","required": false},
       { "id": "minecraft:barrier","required": false},
       { "id": "minecraft:debug_stick","required": false},
-      { "id": "minecraft:light","required": false}
+      { "id": "minecraft:light","required": false},
+      { "id": "minecraft:mace","required": false}
     ]
   }
   
