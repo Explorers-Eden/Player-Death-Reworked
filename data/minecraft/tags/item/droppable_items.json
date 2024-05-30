@@ -977,6 +977,7 @@
     { "id": "minecraft:soul_soil","required": false},
     { "id": "minecraft:soul_torch","required": false},
     { "id": "minecraft:spawner","required": false},
+    { "id": "minecraft:trial_spawner","required": false},
     { "id": "minecraft:spider_eye","required": false},
     { "id": "minecraft:spider_spawn_egg","required": false},
     { "id": "minecraft:spire_armor_trim_smithing_template","required": false},

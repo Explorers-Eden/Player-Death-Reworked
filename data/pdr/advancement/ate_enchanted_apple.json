@@ -19,7 +19,7 @@
       }
     },
     "rewards": {
-      "function": "pdr:add_max_health/get_health"
+      "function": "pdr:ate_enchanted_apple"
     }
   }
   
