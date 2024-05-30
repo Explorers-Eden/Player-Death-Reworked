@@ -977,7 +977,6 @@
     { "id": "minecraft:soul_soil","required": false},
     { "id": "minecraft:soul_torch","required": false},
     { "id": "minecraft:spawner","required": false},
-    { "id": "minecraft:trial_spawner","required": false},
     { "id": "minecraft:spider_eye","required": false},
     { "id": "minecraft:spider_spawn_egg","required": false},
     { "id": "minecraft:spire_armor_trim_smithing_template","required": false},
@@ -1164,6 +1163,9 @@
     { "id": "minecraft:zombie_horse_spawn_egg","required": false},
     { "id": "minecraft:zombie_spawn_egg","required": false},
     { "id": "minecraft:zombie_villager_spawn_egg","required": false},
-    { "id": "minecraft:zombified_piglin_spawn_egg","required": false}
+    { "id": "minecraft:zombified_piglin_spawn_egg","required": false},
+    { "id": "minecraft:wolf_armor","required": false},
+    { "id": "minecraft:armadillo_scute","required": false},
+    { "id": "minecraft:armadillo_spawn_egg","required": false}
   ]
 }
