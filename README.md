@@ -14,7 +14,7 @@ This data pack was originally planned as a part of a much bigger project which g
 - Upon dying you lose 1 heart of your max health until you lost a maximum of 5 hearts. You can regain max health by eating enchanted golden apples or in the morning when you slept in your bed.
 - a new crafting recipe for enchanted golden apples
 - subtle particles for dropped items
-- player drops player head upon death
+- player drops player head upon death 
 
 ## 🛠️ How to
 The datapack just needs to be dropped into your data packs folder of your world. There is nothing else you have to do. It just works out of the box.
