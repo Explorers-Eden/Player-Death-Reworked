@@ -78,4 +78,6 @@ kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:barrier
 kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:debug_stick"}}]
 kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:light"}}]
 kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:recovery_compass"}}]
+kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:clock"}}]
+kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:compass"}}]
 kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:mace"}}]
