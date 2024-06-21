@@ -40,6 +40,7 @@
       { "id": "minecraft:clock","required": false},
       { "id": "minecraft:golden_pickaxe","required": false},
       { "id": "minecraft:golden_sword","required": false},
+      { "id": "minecraft:nautilus_shell","required": false},
       { "id": "minecraft:diamond_boots","required": false},
       { "id": "minecraft:diamond_leggings","required": false},
       { "id": "minecraft:diamond_chestplate","required": false},

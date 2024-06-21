@@ -687,7 +687,6 @@
     { "id": "minecraft:mutton","required": false},
     { "id": "minecraft:mycelium","required": false},
     { "id": "minecraft:name_tag","required": false},
-    { "id": "minecraft:nautilus_shell","required": false},
     { "id": "minecraft:nether_brick","required": false},
     { "id": "minecraft:nether_brick_fence","required": false},
     { "id": "minecraft:nether_brick_slab","required": false},
