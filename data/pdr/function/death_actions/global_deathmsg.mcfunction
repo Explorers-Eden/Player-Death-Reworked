@@ -1,3 +1,5 @@
+team leave @s
+
 execute as @s store result score $global_deathmsg pdr.technical run random value 1..50
 
 execute if score $global_deathmsg pdr.technical matches 1 run tellraw @a [{"text":"☠ ","color":"red"},{"text":"RIP ","color":"#F5E8C9"},{"selector":"@s","color":"red"},{"text":". You will be missed.","color":"#F5E8C9"}]
@@ -50,3 +52,13 @@ execute if score $global_deathmsg pdr.technical matches 47 run tellraw @a [{"tex
 execute if score $global_deathmsg pdr.technical matches 48 run tellraw @a [{"text":"☠ ","color":"red"},{"text":"Your presence brought warmth and light, ","color":"#F5E8C9"},{"selector":"@s","color":"red"},{"text":".","color":"#F5E8C9"}]
 execute if score $global_deathmsg pdr.technical matches 49 run tellraw @a [{"text":"☠ ","color":"red"},{"text":"As the stars twinkle in the night sky, we bid farewell to ","color":"#F5E8C9"},{"selector":"@s","color":"red"},{"text":".","color":"#F5E8C9"}]
 execute if score $global_deathmsg pdr.technical matches 50 run tellraw @a [{"text":"☠ ","color":"red"},{"text":"The sound of your pickaxe will forever echo in the mines, ","color":"#F5E8C9"},{"selector":"@s","color":"red"},{"text":".","color":"#F5E8C9"}]
+
+
+execute as @s[tag=dunesworn] run team join eden.dunesworn @s
+execute as @s[tag=endling] run team join eden.endling @s
+execute as @s[tag=frostborne] run team join eden.frostborne @s
+execute as @s[tag=moonshroud] run team join eden.moonshroud @s
+execute as @s[tag=netherian] run team join eden.netherian @s
+execute as @s[tag=oakhearted] run team join eden.oakhearted @s
+execute as @s[tag=orebringer] run team join eden.orebringer @s
+execute as @s[tag=turtlekin] run team join eden.turtlekin @s
