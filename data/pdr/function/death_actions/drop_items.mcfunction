@@ -126,10 +126,10 @@ execute as @s positioned ~ ~400 ~ run data modify entity @e[type=item,tag=slot_1
 execute as @s at @e[type=item,tag=dropped,sort=nearest] at @s run function pdr:death_actions/kill_non_droppable_items
 
 ##TP Items To Death Location
-$execute in $(Dimension) run tp @e[type=item,tag=dropped] $(Pos0) $(Pos1) $(Pos2)
+$execute in $(Dimension) run tp @e[type=item,tag=dropped] $(Pos0) $(Pos1).8 $(Pos2)
 
 ##Drop Player Head
-$execute in $(Dimension) run loot spawn $(Pos0) $(Pos1) $(Pos2) loot pdr:player_head
+$execute in $(Dimension) run loot spawn $(Pos0) $(Pos1).8 $(Pos2) loot pdr:player_head
 
 ##Clear Player Inv
 clear @s #minecraft:droppable_items
