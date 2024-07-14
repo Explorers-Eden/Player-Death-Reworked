@@ -84,3 +84,4 @@ kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:clock"}
 kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:compass"}}]
 kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:mace"}}]
 kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:nautilus_shell"}}]
+kill @e[type=item,sort=nearest,nbt={Tags:["dropped"],Item:{id:"minecraft:bundle"}}]
