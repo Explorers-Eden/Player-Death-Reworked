@@ -8,4 +8,4 @@ schedule function pdr:dropped_items/scheduled_run 4s
 schedule function pdr:reset_bed_health 30s
 
 ##Regen & Saturation when sleeping
-schedule function pdr:bed_effects 10s
+schedule function pdr:bed_effects 10t
