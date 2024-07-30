@@ -1,5 +1,4 @@
 <img src="https://explorerseden.eu/pdr_title.png" alt="header" width=100%>
-<center>
   <br><br>
 
 ## 📖 Description
@@ -11,10 +10,11 @@ This data pack was originally planned as a part of a much bigger project which g
 - You only keep some of your inventory. In general it is stuff like armor, tools and operator items which will not drop upon death. Everything else does. 
 - Death messages have been reworked to show one of 50 freshly made ones which will pay respect to our fallen brothers and sisters
 - Get a message including the coordinates of your last death location and your current death counter after respawning
-- Upon dying you lose 1 heart of your max health until you lost a maximum of 5 hearts. You can regain max health by eating enchanted golden apples or in the morning when you slept in your bed.
+- Upon dying you lose 1 heart of your max health until you lost a maximum of 5 hearts. You can regain max health by eating enchanted golden apples or each morning.
+- sleeping gives regeneration & saturation effects
 - a new crafting recipe for enchanted golden apples
 - subtle particles for dropped items
-- player drops player head upon death 
+- player drops player head upon death
 
 ## 🛠️ How to
 The datapack just needs to be dropped into your data packs folder of your world. There is nothing else you have to do. It just works out of the box.
