@@ -1069,7 +1069,6 @@
     { "id": "minecraft:tube_coral_fan","required": false},
     { "id": "minecraft:tuff","required": false},
     { "id": "minecraft:turtle_egg","required": false},
-    { "id": "minecraft:turtle_helmet","required": false},
     { "id": "minecraft:turtle_spawn_egg","required": false},
     { "id": "minecraft:twisting_vines","required": false},
     { "id": "minecraft:verdant_froglight","required": false},
