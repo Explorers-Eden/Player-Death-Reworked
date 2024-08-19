@@ -8,4 +8,6 @@ execute as @a if score @s pdr.lost.health.counter matches 3 run attribute @s min
 execute as @a if score @s pdr.lost.health.counter matches 4 run attribute @s minecraft:generic.max_health modifier add pdr_4 -8 add_value
 execute as @a if score @s pdr.lost.health.counter matches 5.. run attribute @s minecraft:generic.max_health modifier add pdr_5 -10 add_value
 
+execute as @a if score @s pdr.daily.deathcounter matches 1.. run scoreboard players reset @s pdr.days.no.death
+
 schedule function pdr:death_actions/scheduled_run 1t
