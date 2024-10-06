@@ -7,15 +7,9 @@
     "CGC"
   ],
   "key": {
-    "C": {
-      "item": "minecraft:amethyst_cluster"
-    },
-    "G": {
-      "item": "minecraft:raw_gold_block"
-    },
-    "A": {
-      "item": "minecraft:apple"
-    }
+    "C": "minecraft:amethyst_cluster",
+    "G": "minecraft:raw_gold_block",
+    "A": "minecraft:apple"
   },
   "result": {
     "id": "minecraft:enchanted_golden_apple"
