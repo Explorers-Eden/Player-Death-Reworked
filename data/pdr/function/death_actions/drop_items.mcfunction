@@ -132,8 +132,8 @@ $execute in $(Dimension) run tp @e[type=item,tag=dropped] $(Pos0) $(Pos1).9 $(Po
 $execute in $(Dimension) run loot spawn $(Pos0) $(Pos1).9 $(Pos2) loot pdr:player_head
 
 ##Clear Player Inv
-clear @s #minecraft:droppable_items
-clear @s #minecraft:non_droppable_items[minecraft:enchantments={levels:{"minecraft:vanishing_curse":1}}]
+clear @s #eden:droppable_items
+clear @s #eden:non_droppable_items[minecraft:enchantments={levels:{"minecraft:vanishing_curse":1}}]
 
 ##Remove Item Tags
 execute as @e[type=item,tag=dropped] at @s run function pdr:death_actions/remove_item_tags
