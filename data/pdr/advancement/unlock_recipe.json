@@ -1,13 +1,13 @@
 {
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:location"
-      }
-    },
-    "rewards": {
-      "recipes": [
-        "pdr:enchanted_golden_apple"
-      ]
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:location"
     }
+  },
+  "rewards": {
+    "function": "pdr:init_death_score",
+    "recipes": [
+      "minecraft:enchanted_golden_apple"
+    ]
   }
-  
+}
