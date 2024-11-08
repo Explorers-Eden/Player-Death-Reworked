@@ -1059,7 +1059,6 @@
     { "id": "minecraft:totem_of_undying","required": false},
     { "id": "minecraft:trader_llama_spawn_egg","required": false},
     { "id": "minecraft:trapped_chest","required": false},
-    { "id": "minecraft:trident","required": false},
     { "id": "minecraft:tripwire_hook","required": false},
     { "id": "minecraft:tropical_fish","required": false},
     { "id": "minecraft:tropical_fish_bucket","required": false},
